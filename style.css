@@ -4,9 +4,16 @@ h3{
   color: red;
 }
 
+<<<<<<< HEAD
 
 h2{
   margin-top: 100px;
   text-align:center;
   color: blue;
+=======
+h2{
+  margin-top: 100px;
+  text-align:center;
+  color: yellow;
+>>>>>>> dev
 }
